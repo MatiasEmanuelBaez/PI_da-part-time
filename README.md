@@ -2,7 +2,7 @@
 <h1>
 PROYECTO INDIVIDUAL N°2 
 </br>
-Telecomunicaciones y Conectividad
+Telecomunicaciones y Conectividad.
 </h1>
 En el contexto del rápido crecimiento de las telecomunicaciones, las empresas prestadoras de servicios deben contar con herramientas y recursos que les permitan tomar decisiones estratégicas. Así la analítica de datos juega un papel fundamental, ya que permite identificar patrones y oportunidades que suelen pasar desapercibidos.
 </div>
