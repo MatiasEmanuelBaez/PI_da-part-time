@@ -1,0 +1,25 @@
+;index;Pais;Provincia;id;lat;lng
+0;0;Argentina;Buenos Aires;1;-34,9211;-57,9544
+1;36;Argentina;Capital Federal;2;-34,5997;-58,3819
+2;72;Argentina;Catamarca;3;-28,4667;-65,7833
+3;108;Argentina;Chaco;4;-27,4514;-58,9867
+4;144;Argentina;Chubut;5;-43,3;-65,1
+5;216;Argentina;Corrientes;6;-31,4167;-64,1833
+6;180;Argentina;Cordoba;7;-27,4833;-58,8167
+7;252;Argentina;Entre Rios;8;-31,7331;-60,5297
+8;288;Argentina;Formosa;9;-26,1833;-58,1833
+9;324;Argentina;Jujuy;10;-24,1833;-65,3
+10;360;Argentina;La Pampa;11;-36,6167;-64,2833
+11;396;Argentina;La Rioja;12;-29,4125;-66,8542
+12;432;Argentina;Mendoza;13;-32,8833;-68,8167
+13;468;Argentina;Misiones;14;-27,3667;-55,9
+14;504;Argentina;Neuquen;15;-38,9525;-68,0642
+15;540;Argentina;Rio Negro;16;-40,8;-63
+16;576;Argentina;Salta;17;-24,7833;-65,4167
+17;612;Argentina;San Juan;18;-31,5342;-68,5261
+18;648;Argentina;San Luis;19;-33,3;-66,3333
+19;684;Argentina;Santa Cruz;20;-51,6233;-69,2161
+20;720;Argentina;Santa Fe;21;-31,6333;-60,7
+21;756;Argentina;Santiago Del Estero;22;-27,7833;-64,2667
+22;792;Argentina;Tierra Del Fuego;23;-54,8019;-68,3031
+23;828;Argentina;Tucuman;24;-26,8167;-65,2167
