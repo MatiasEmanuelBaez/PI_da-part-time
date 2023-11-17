@@ -1,7 +1,12 @@
-# PROYECTO INDIVIDUAL N°2 - Telecomunicaciones y Conectividad
-
+<div align="center">
+<h1>
+PROYECTO INDIVIDUAL N°2 
+</br>
+Telecomunicaciones y Conectividad
+</h1>
 En el contexto del rápido crecimiento de las telecomunicaciones, las empresas prestadoras de servicios deben contar con herramientas y recursos que les permitan tomar decisiones estratégicas. Así la analítica de datos juega un papel fundamental, ya que permite identificar patrones y oportunidades que suelen pasar desapercibidos.
-
+</div>
+<div align="justify">
 
 ## 👀 EXPECTATIVAS 
 Se nos presenta el desafío de suponer que trabajamos para una empresa de telecomunicaciones en un rol de *data analyst*, debiendo trabajar el [dataset proporcionado](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/). Tenemos libertad para trabajar los datos y ampliar el mismo con información que consideremos relevante.
@@ -87,3 +92,30 @@ El proyecto fue implementado en Python, haciendo uso de diversas bibliotecas esp
 + Seaborn: Además, Seaborn se empleó en conjunto con Matplotlib para mejorar la estética y funcionalidad de los gráficos, ofreciendo una capa de abstracción adicional.
 
 Además, los datos trabajados serán presentados mediante Power BI, que ofrece herramientas avanzadas de visualización y análisis que facilitarán la interpretación de los datos, proporcionando una comprensión más clara y detallada de los resultados.
+
+
+## 📰 Fuentes de datos
+
+[Dataset provisto.](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
+
+[Dataset utilizado (original).](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
+
+[Principales centros urbanos.](https://www.argentina.gob.ar/pais/poblacion/centros)
+
+[Índice de precios al consumidor.](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-5-31)
+
+[Tipo de Cambio BNA (Vendedor).](https://datos.gob.ar/series/api/series/?ids=168.1_T_CAMBIOR_D_0_0_26&limit=5000&representation_mode=value&chartType=column&collapse=quarter&collapse_aggregation=end_of_period)
+
+[Fusión Telecom-Cablevisión: qué implica.](https://chequeado.com/el-explicador/fusion-telecom-cablevision-que-implica-y-como-se-llego-a-la-situacion-actual/)
+
+[Enacom aprobó la fusión de Telecom y Cablevisión.](https://www.enacom.gob.ar/institucional/enacom-aprobo-la-fusion-de-telecom-de-argentina-s-a--y-cablevision-s-a-_n1838)
+
+-----------
+
+
+
+
+
+
+
+</div>
